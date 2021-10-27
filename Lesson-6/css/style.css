@@ -20,6 +20,11 @@ form.search-form {
    margin-right: 100px;
 }
 
+.product-bio {
+   display: flex;
+   justify-content: space-between;
+}
+
 .logo {
    font-size: 40px;
    outline: none;
