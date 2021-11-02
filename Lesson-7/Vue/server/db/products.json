@@ -1,0 +1,29 @@
+[{
+  "id_product": 1,
+  "product_name": "Мышь",
+  "price": 45600,
+  "imgProduct": "./img/products/mouse.jpg",
+  "imgCart": "./img/cart/mouse.jpg"
+},
+{
+  "id_product": 2,
+  "product_name": "Ноутбук",
+  "price": 1000,
+  "imgProduct": "./img/products/notebook.jpg",
+  "imgCart": "./img/cart/notebook.jpg"
+},
+{
+  "id_product": 3,
+  "product_name": "Клавиатура",
+  "price": 1600,
+  "imgProduct": "./img/products/keyboard.jpg",
+  "imgCart": "./img/cart/keyboard.jpg"
+},
+{
+  "id_product": 4,
+  "product_name": "GamePad",
+  "price": 3700,
+  "imgProduct": "./img/products/gamepad.jpg",
+  "imgCart": "./img/cart/gamepad.jpg"
+}
+]
